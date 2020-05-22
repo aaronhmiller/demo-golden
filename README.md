@@ -1,6 +1,6 @@
 ![.github/workflows/main.yml](https://github.com/aaronhmiller/demo-golden/workflows/.github/workflows/main.yml/badge.svg)
 
-# gitops-demo
+# demo-golden
 
 This repository provides a template for doing your own demonstration of the end to end lifecycle as depicted in the following diagram.
 
