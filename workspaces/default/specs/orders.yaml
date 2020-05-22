@@ -36,6 +36,7 @@ paths:
                       "address": "123 W. Division St.",
                       "address2": "Apt 20E",
                       "city": "Chicago",
+                      "zip": 94040
                       "pizzas":[
                         {
                           "description": "Large, all pepperoni, mushroom. Half onion",
