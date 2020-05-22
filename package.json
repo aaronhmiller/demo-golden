@@ -1,0 +1,25 @@
+{
+  "name": "demo-golden",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kong/demo-golden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kong/demo-golden/issues"
+  },
+  "homepage": "https://github.com/Kong/demo-golden#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0",
+    "openapi-2-kong": "^2.2.4"
+  },
+  "description": ""
+}
